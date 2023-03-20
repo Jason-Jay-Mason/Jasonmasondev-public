@@ -1,5 +1,5 @@
 {
-  "slug": "dealerslink",
+  "slug": "demo",
   "layout": {
     "links": [
       {
@@ -21,11 +21,11 @@
     ]
   },
   "company": {
-    "name": "Dealerslink",
-    "logoSrc": "/dealerslink-logo.svg"
+    "name": "Demo Page",
+    "logoSrc": "/vc-logo.svg"
   },
   "hero": {
-    "hook": "Hi, I'm Jason Mason! This is my web resumé for the Marketing Technology Engineer position at Noodles & Company. Send me a message or give me a call and we'll talk!",
+    "hook": "Hi, I'm Jason Mason! Thanks for checking out my web resumé code base. Send me a message or give me a call and we'll talk!",
     "cta": {
       "isVideo": false,
       "hrefOrSrc": "#contact",
@@ -37,14 +37,14 @@
       "sub": "Why I'm applying",
       "main": "COVER LETTER"
     },
-    "body": "Hey there, Noodles and Company!\n\nFirst and foremost, thanks a ton for taking the time to review my Webumé and considering me for the open position. I'm beyond thrilled to see that you guys are hiring, especially since I'm a huge fan of your mouth-watering dishes. After reading through the job description, I have a strong hunch that I'd be a valuable addition to your team and provide top-notch service to all your customers.<br/><br/>\n\nIt's great to know that Noodles and Company shares my belief in the importance of diversity and encourages individuals to express themselves in the workplace. Being able to live and let live is crucial, and it's heartening to live in a country that values diversity as much as we do. Sadly, in many parts of the world, my faith in Jesus would result in a death sentence, but I won't bore you with those details. Let's just say that I'm a Christian, but not the judgmental type. I'm all about spreading love and positivity, making the world a better place for everyone.<br/><br/>\n\nI feel a deep connection with Noodles and Company's values, particularly with my passion for MarTech and building business systems. I genuinely care about the work I do and the people around me, and I'm confident that my skills and experience match your job requirements to a tee.<br/><br/>\n\nI can't wait to meet you all and discuss this opportunity further. By the way, I wanted to mention that having knowledge of REST, and server-side development using Java, Node, Go, Python, C#, or Ruby would be a huge plus for integrating MarTech tools and Sales Force. It's worth considering when updating the job description.<br/><br/>"
+    "body": "This site was built on a weekend with Sveltekit and Decap cms. It looks like you got it up and running! Thanks for taking a look!"
   },
   "profile": {
     "headline": {
       "sub": "About me",
       "main": "PROFILE"
     },
-    "body": "In the past, there was little overlap between engineering and marketing functions. However, with the arrival of Martech, businesses are missing out on significant opportunities. As a result, my unique skill set as an engineering-minded misfit on marketing teams has given me the qualifications to serve businesses in the nascent field of MarTech implementation and development.",
+    "body": "I'm a web developer with almost a decade of experience building SEO-friendly websites and responsive user interfaces. I specialize in using HTML, JavaScript, CSS, SCSS, and CSS in JS. I'm well-versed in modern CSS best practices, including grid, flexbox, and theme architecture using CSS variables. Additionally, I have extensive experience with server-side API design and consumption on a JAMstack architecture using full-stack web frameworks such as Next.js and Sveltekit. I've also built maintainable packages and processes in SalesForce Apex (Java). In terms of design, I have extensive experience in web and user interface design, and consistently achieve pixel-perfect design implementations. My approach to work is guided by the principle of delivering value. Whenever I begin a task, I ask myself: how can I bring more value to the company and its clients? This mindset encourages me to think creatively and motivates me to go above and beyond in my work. ",
     "interests": [
       {
         "title": "storm chasing",
@@ -59,8 +59,8 @@
         "iconSrc": "/bible.svg"
       },
       {
-        "title": "cooking",
-        "iconSrc": "/cooking.svg"
+        "title": "chess",
+        "iconSrc": "/knight.svg"
       },
       {
         "title": "snowboarding",
